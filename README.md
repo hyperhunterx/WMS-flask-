@@ -56,12 +56,10 @@
 Below are screenshots of the sample Airtable dashboard created from the cleaned data (not part of the Flask app):
 
 1. **Total Stock (TLCQ)**:
-   - Sales_data.png
+   - ![Total Stock](Sales_data.png)
 
 2. **Sales by Marketplace**:
-   - Sales_by_market_place.png
-   - Description: Bar chart displaying sales quantities for Flipkart and Amazon
+   - ![Sales by Marketplace](Sales_by_market_place.png)
 
 3. **Low Stock Items**:
-   - *Low_Stock.png
-
+   - ![Low Stock Items](Low_Stock.png)
