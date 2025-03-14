@@ -4,6 +4,7 @@
 1. Visit: [http://invincible123.pythonanywhere.com](http://invincible123.pythonanywhere.com)
 2. Upload Flipkart and Amazon CSVs, click "Process Data".
 3. Download the cleaned data as `cleaned_sales_data.csv`.
+4. Sample csv for flipkart and amazon sales data is also there in github repo you can use them these are the same csv's given in assignment.
 
 ## What I Built
 - **Part 1: Data Cleaning and Management**
